@@ -25,3 +25,11 @@ Route::get('/guest', function () {
 Route::get('/login', function () {
     return view('auth/login');
 });
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

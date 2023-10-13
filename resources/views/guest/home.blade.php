@@ -10,13 +10,13 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-        <img src="{{ url('storage/images/carousel1.jpg') }}" class="d-block w-100" alt="...">
+        <img src="{{ asset('images/carousel1.jpg') }}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-        <img src="{{ url('storage/images/carousel2.jpg') }}" class="d-block w-100" alt="...">
+        <img src="{{ asset('images/carousel2.jpg') }}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-        <img src="{{ url('storage/images/carousel3.jpg') }}" class="d-block w-100" alt="...">
+        <img src="{{ asset('images/carousel3.jpg') }}" class="d-block w-100" alt="...">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -30,7 +30,7 @@
     </div>
 </div>
 
-<div class="container mt-5 py-3 px-3">
+<div class="container mt-5 py-3 px-3" id="about">
     <div class="row">
         <div class="col-12 text-center">
             <h2>Computer Science</h2>
@@ -39,8 +39,57 @@
             <img src="https://id-media.apjonlinecdn.com/wysiwyg/blog/best-hp-laptops-for-programming/Programmer_Coding_on_Laptop.jpg" class="img-fluid">
         </div>
         <div class="col-6">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ipsa neque inventore architecto deserunt consequuntur consectetur, earum expedita mollitia eaque nulla repudiandae pariatur autem excepturi nobis accusantium dignissimos non voluptatem.
+            computer science is a multidimensional field that encompasses algorithmic thinking, artificial intelligence, cybersecurity, infrastructure management, and ethical considerations. Its pervasive influence in the digital age is undeniable, and as it continues to advance, it will shape the future in ways we are only beginning to comprehend. This abstract offers a glimpse into the vast and intricate landscape of computer science, revealing the interplay of theory and application that propels innovation and progress in the 21st century.
         </div>
     </div>
+</div>
+
+
+<div class="container-fluid mt-5 py-3 px-3 primary-color text-white" id="prestasi">
+    <div class="row">
+        <div class="col text-center">
+            <h1>Prestasi Mahasiswa</h1>
+        </div>
+    </div>
+    <div class="row mt-4 text-dark">
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="{{ asset('images/carousel3.jpg') }}" class="card-img-top" alt="Image 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Abdullah Ammar</h5>
+                        <p class="card-text">Lomba Poster Digital ASTRO ( Aksi, Seni, Teknologi, dan Olahraga ) Competition 2018</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="{{ asset('images/carousel2.jpg') }}" class="card-img-top" alt="Image 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Naufal Rasyid</h5>
+                        <p class="card-text">ITechno Cup 2018 “Shining Indonesia with Technology”, Web Developer Senior</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="{{ asset('images/carousel1.jpg') }}" class="card-img-top" alt="Image 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Mita Nurul Yatimah</h5>
+                        <p class="card-text">Program Kreativitas Mahasiswa 2020
+Judul Proposal: Analisis Perbandingan Efektivitas Sistem Pakar dalam Mendiagnosis Penyakit Stroke di Indonesia</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <img src="{{ asset('images/carousel3.jpg') }}" class="card-img-top" alt="Image 4">
+                    <div class="card-body">
+                        <h5 class="card-title">Risnawati</h5>
+                        <p class="card-text">Program Kreativitas Mahasiswa 2020
+Judul Proposal: GUFITECH (Get Your Farming Tools Tech) - Upaya Untuk Meningkatkan Produktivitas Pertanian Sebagai Solusi Mengurangi Nilai Impor Pangan Indonesia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
 </div>
 @endsection

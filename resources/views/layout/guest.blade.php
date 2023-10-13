@@ -10,10 +10,10 @@
 </head>
 
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container">
         <!-- Logo -->
-        <a class="navbar-brand" href="#"><img src="{{ url('storage/images/EBSCS1.png') }}" alt="Logo" width='20%' height='20%'></a>
+        <a class="navbar-brand" href="#"><img src="{{ asset('images/EBSCS1.png') }}" alt="Logo" width='20%' height='20%'></a>
         
         <!-- Toggler for Small Screens -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,22 +27,22 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="guest/about">About</a>
+                    <a class="nav-link" href="#about">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Prestasi</a>
+                    <a class="nav-link" href="#prestasi">Prestasi</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Internship</a>
+                    <a class="nav-link" href="#internship">Internship</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Project</a>
+                    <a class="nav-link" href="#project">Project</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Publikasi</a>
+                    <a class="nav-link" href="#publikasi">Publikasi</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#contact">Contact</a>
                 </li>
                 <li class="nav-item ms-3">
                     <a href="/login">
