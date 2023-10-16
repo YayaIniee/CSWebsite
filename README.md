@@ -37,6 +37,7 @@ git clone https://github.com/YayaIniee/CSWebsite.git
 Install composer to vendor file, etc.
 ```bash
 composer install
+npm install
 ```
 Duplicate file .env
 ```bash
