@@ -45,7 +45,8 @@
 </div>
 
 
-<div class="container-fluid mt-5 py-3 px-3 primary-color text-white" id="prestasi">
+<div class="container-fluid mt-5 py-5 px-3 primary-color text-white" id="prestasi">
+    <div class="container">
     <div class="row">
         <div class="col text-center">
             <h1>Prestasi Mahasiswa</h1>
@@ -91,5 +92,7 @@ Judul Proposal: GUFITECH (Get Your Farming Tools Tech) - Upaya Untuk Meningkatka
                 </div>
             </div>
         </div>
+
+    </div>
 </div>
 @endsection

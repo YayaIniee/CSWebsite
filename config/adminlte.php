@@ -63,12 +63,11 @@ return [
     |
     */
 
-    'logo' => '<b>CS Website</b>',
-    'logo_img' => '',
-    'logo_img_class' => 'brand-image img-circle elevation-3',
+    'logo' => '<br><b>CS Website</b>',
+    'logo_img' => 'vendor/adminlte/dist/img/CSWebsite_FullWarna.png',
     'logo_img_xl' => null,
     'logo_img_xl_class' => 'brand-image-xs',
-    'logo_img_alt' => 'logo',
+    'logo_img_alt' => 'Logo',
 
     /*
     |--------------------------------------------------------------------------
@@ -86,11 +85,11 @@ return [
     'auth_logo' => [
         'enabled' => false,
         'img' => [
-            'path' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
+            'path' => 'vendor/adminlte/dist/img/CSWebsite_FullWarna.png',
             'alt' => 'Auth Logo',
             'class' => '',
-            'width' => 50,
-            'height' => 50,
+            'width' => 200,
+            'height' => 100,
         ],
     ],
 
@@ -109,11 +108,11 @@ return [
     'preloader' => [
         'enabled' => true,
         'img' => [
-            'path' => 'vendor/adminlte/dist/img/AdminLTELogo.png',
-            'alt' => 'AdminLTE Preloader Image',
+            'path' => 'vendor/adminlte/dist/img/CSWebsite_FullWarna.png',
+            'alt' => 'Preloader Image',
             'effect' => 'animation__shake',
-            'width' => 60,
-            'height' => 60,
+            'width' => 240,
+            'height' => 120,
         ],
     ],
 
