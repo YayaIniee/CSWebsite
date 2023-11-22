@@ -80,15 +80,68 @@
 </div>
 
 
-<div class="container">
-    <div class="row">
-        <div class="col-xl-10 position-relative">
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-xl-10">
             <div class="swiper hover-swipe swiper-initialized swiper-horizontal swiper-pointer-events aos-init aos-animate">
-                <div class="swiper-wrapper"></div>
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <div class="image-container">
+                            <img class="card-img-top" src="..." alt="Card image cap">
+                        </div>
+                        <div class="portofoli_info">
+                            <div class="profile_avatar">
+                                <img class="card-img-top" src="..." alt="Avatar image">
+                            </div>
+                            <div class="portofolio_category">
+                                <span>Mobile</span>
+                            </div>
+                            <div class="potrofolio_project">
+                                <span>Cashfet</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="image-container">
+                            <img class="card-img-top" src="..." alt="Card image cap">
+                        </div>
+                        <div class="portofoli_info">
+                            <div class="profile_avatar">
+                                <img class="card-img-top" src="..." alt="Avatar image">
+                            </div>
+                            <div class="portofolio_category">
+                                <span>Mobile</span>
+                            </div>
+                            <div class="potrofolio_project">
+                                <span>Cashfet</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="image-container">
+                            <img class="card-img-top" src="..." alt="Card image cap">
+                        </div>
+                        <div class="portofoli_info">
+                            <div class="profile_avatar">
+                                <img class="card-img-top" src="..." alt="Avatar image">
+                            </div>
+                            <div class="portofolio_category">
+                                <span>Mobile</span>
+                            </div>
+                            <div class="potrofolio_project">
+                                <span>Cashfet</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+
 
 
 <div class="container-fluid mt-5 py-5 px-3 primary-color text-white" id="prestasi">
