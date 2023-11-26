@@ -54,6 +54,9 @@ You can check our project prototype <a href="https://www.figma.com/file/oC2H77lY
 ## Documentation
 You can check full documentation <a href="https://github.com/YayaIniee/CSWebsite/tree/ca179eb29971452a986916d36f2e8631616c37e4/Docs">here</a>
 
+## Project Management
+<a href="https://trello.com/b/A55Xt6MS/project-web-cees?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite"> here </a>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
