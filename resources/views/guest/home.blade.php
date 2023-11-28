@@ -1,11 +1,7 @@
 @extends('layout.guest')
 
 @section('content')
-<<<<<<< Updated upstream
-<div class="container-fluid p-0 m-0">
-=======
 <div class="container-fluid p-0">
->>>>>>> Stashed changes
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -83,67 +79,78 @@
     </div>
 </div>
 
-
-<div class="container py-5">
-    <div class="row justify-content-center">
-        <div class="col-xl-10">
-            <div class="swiper hover-swipe swiper-initialized swiper-horizontal swiper-pointer-events aos-init aos-animate">
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                        <div class="image-container">
-                            <img class="card-img-top" src="..." alt="Card image cap">
+<!-- Project Section -->
+<section id="project">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-10 position-relative">
+                <h2 class="text-center">Student Project</h2>
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/1.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
+                            </div>
                         </div>
-                        <div class="portofoli_info">
-                            <div class="profile_avatar">
-                                <img class="card-img-top" src="..." alt="Avatar image">
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/2.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
                             </div>
-                            <div class="portofolio_category">
-                                <span>Mobile</span>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/3.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
                             </div>
-                            <div class="potrofolio_project">
-                                <span>Cashfet</span>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/4.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
+                            </div>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/5.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
+                            </div>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/6.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
+                            </div>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/7.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
+                            </div>
+                        </div>
+                        <div class="card swiper-slide" style="width: 18rem;">
+                            <img src="{{ asset('images/8.jpg') }}" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Lorem ipsum dolor sit amet . The graphic and typographic operators know this well.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="image-container">
-                            <img class="card-img-top" src="..." alt="Card image cap">
-                        </div>
-                        <div class="portofoli_info">
-                            <div class="profile_avatar">
-                                <img class="card-img-top" src="..." alt="Avatar image">
-                            </div>
-                            <div class="portofolio_category">
-                                <span>Mobile</span>
-                            </div>
-                            <div class="potrofolio_project">
-                                <span>Cashfet</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="image-container">
-                            <img class="card-img-top" src="..." alt="Card image cap">
-                        </div>
-                        <div class="portofoli_info">
-                            <div class="profile_avatar">
-                                <img class="card-img-top" src="..." alt="Avatar image">
-                            </div>
-                            <div class="portofolio_category">
-                                <span>Mobile</span>
-                            </div>
-                            <div class="potrofolio_project">
-                                <span>Cashfet</span>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
+                <div class="swiper_next swiper-button-next position-absolute top-50 start-100 translate-middle"></div>
+                <div class="swiper_prev swiper-button-prev position-absolute top-50 start-0 translate-middle"></div>
             </div>
         </div>
     </div>
-</div>
+</section>
 
 
 
