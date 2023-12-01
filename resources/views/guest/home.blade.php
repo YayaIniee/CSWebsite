@@ -84,9 +84,115 @@
 
 <!-- Matakuliah Section -->
 <section class="py-2" id="matakulialh">
-    <div class="container justify-content-center">
+    <div class="container">
         <h2 class="title text-center">Matakuliah</h2>
-    </div>    
+        <div class="row justify-content-center">
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card ">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div> 
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div> 
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div> 
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div> 
+                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="" alt="" class="card-image">
+                        </div>
+                        <div class="card-footer">Nama Matkul</div>
+                    </div>
+                </div>            
+        </div>
+    </div>
 </section>
 
 <!-- MBKM Section -->
@@ -234,4 +340,5 @@
         </div>
     </div>
 </div>
+
 @endsection
