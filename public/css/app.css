@@ -63,3 +63,12 @@ body {
     background-color: #152567;
 }
 
+.keunggulan_prodi_collapse-button:focus{
+    box-shadow: unset;
+
+}
+.keunggulan_prodi_collapse-button:not(.collapsed){
+    background-color: unset;
+    box-shadow: unset;
+
+}
