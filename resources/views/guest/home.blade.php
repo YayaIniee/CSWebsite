@@ -209,13 +209,6 @@
     </div>
 </section>
 
-<!-- Publikasi Section -->
-<section class="py-2" id="publikasi">
-    <div class="container justify-content-center">
-        <h2 class="title text-center">Publikasi Mahasiswa</h2>
-    </div>
-</section>
-
 <!-- Project Section -->
 <section class="py-2" id="project">
     <div class="container">
@@ -291,7 +284,7 @@
 
 
 
-
+<!--
 <div class="container-fluid mt-5 py-5 px-3 primary-color text-white" id="prestasi">
     <div class="container">
         <div class="row">
@@ -340,5 +333,5 @@
         </div>
     </div>
 </div>
-
+-->
 @endsection
