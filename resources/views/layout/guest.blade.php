@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
         <div class="container">
             <!-- Logo -->
-            <a class="navbar-brand" href="#"><img src="{{ asset('images/CSWebsite_FullWarna.png') }}" alt="Logo" width='40%' height='auto'></a>
+            <a class="navbar-brand" href="#"><img src="{{ asset('images/Logo2.png') }}" alt="Logo" width='40%' height='auto'></a>
 
             <!-- Toggler for Small Screens -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -96,7 +96,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-4">
-                    <a class="navbar-brand" href="#"><img src="{{ asset('images/CSWebsite_FullWarna.png') }}" alt="Logo" width='80%' height='90%'></a>
+                    <a class="navbar-brand" href="#"><img src="{{ asset('images/Logo1.png') }}" alt="Logo" width='80%' height='90%'></a>
                 </div>
                 <div class="col-4 navbar navbar-dark ">
                     <div class="row">
