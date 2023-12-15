@@ -31,9 +31,9 @@
 </div>
 
 <!-- Keunggulan Prodi Section -->
-<section class="py-2" id="keunggulan_prodi">
+<section class="py-2 my-4" id="keunggulan_prodi">
     <div class="container justify-content-center align-items-center">
-        <h2 class="title text-center">Why Computer Science?</h2>
+        <h2 class="title text-center mb-4">Why Computer Science?</h2>
         <div class="row">
             <div class="col-xl-5 text-center">
                 <img src="https://id-media.apjonlinecdn.com/wysiwyg/blog/best-hp-laptops-for-programming/Programmer_Coding_on_Laptop.jpg" class="img-fluid rounded-3">
@@ -83,9 +83,9 @@
 </section>
 
 <!-- Matakuliah Section -->
-<section class="py-2" id="matakulialh">
+<section class="py-2 my-4" id="matakulialh">
     <div class="container">
-        <h2 class="title text-center">Matakuliah</h2>
+        <h2 class="title text-center mb-4">Matakuliah</h2>
         <div class="row justify-content-center">
             <div class="col-sm-6 col-md-3 col-xl-2 py-2">
                 <div class="card ">
@@ -196,11 +196,11 @@
 </section>
 
 <!-- MBKM Section -->
-<section class="py-2" id="mbkm">
+<section class="py-2 my-4" id="mbkm">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-10">
-                <h2 class="title text-center">Magang dan Internship</h2>
+                <h2 class="title text-center mb-4">Magang dan Internship</h2>
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide" style="width: 15rem;">
@@ -291,20 +291,26 @@
 </section>
 
 <!-- Prestasi Section -->
-<section class="py-2" id="prestasi">
+<section class="py-2 my-4" id="prestasi">
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center align-items-start">
             <div class="col-10">
-                <h2 class="title text-center">Prestasi Mahasiswa</h2>
+                <h2 class="title text-center mb-4">Prestasi Mahasiswa</h2>
                 <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" space-between="30" loop="true">
-                    <swiper-slide>Slide 1
-                        <div class="row align-item-center">
+                    <swiper-slide>
+                        <div class="row align-items-center justify-content-center">
                             <div class="col-6">
-                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="70%" alt="">
                             </div>
                             <div class="col-6">
-                                <div class="">
-                                    <h3 class="">Prestasi</h3>
+                                <div class="card border-2 rounded-5">
+                                    <div class="card-body">
+                                        <h3 class="card-title">Prestasi</h3>
+                                        <h5 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h5>
+                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <a href="#" class="card-link">Card link</a>
+                                        <a href="#" class="card-link">Another link</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -344,7 +350,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-10 position-relative">
-                <h2 class="title text-center">Student Project</h2>
+                <h2 class="title text-center mb-4">Student Project</h2>
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
                         <div class="card swiper-slide" style="width: 18rem;">
