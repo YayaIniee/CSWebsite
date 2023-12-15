@@ -87,125 +87,255 @@
     <div class="container">
         <h2 class="title text-center">Matakuliah</h2>
         <div class="row justify-content-center">
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card ">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card ">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
+                    <div class="card-footer">Nama Matkul</div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
-                </div> 
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+                    <div class="card-footer">Nama Matkul</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
-                </div> 
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+                    <div class="card-footer">Nama Matkul</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
-                </div> 
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+                    <div class="card-footer">Nama Matkul</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
-                </div> 
-                <div class="col-sm-6 col-md-3 col-xl-2 py-2">
-                    <div class="card">
-                        <div class="card-body">
-                            <img src="" alt="" class="card-image">
-                        </div>
-                        <div class="card-footer">Nama Matkul</div>
+                    <div class="card-footer">Nama Matkul</div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-xl-2 py-2">
+                <div class="card">
+                    <div class="card-body">
+                        <img src="" alt="" class="card-image">
                     </div>
-                </div>            
+                    <div class="card-footer">Nama Matkul</div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 
 <!-- MBKM Section -->
 <section class="py-2" id="mbkm">
-    <div class="container justify-content-center">
-        <h2 class="title text-center">Magang dan Internship</h2>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-10">
+                <h2 class="title text-center">Magang dan Internship</h2>
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 15rem;">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="magang_info" style="height: 75px;">
+                                    <span class="magang_name">Nama Mahasiswa</span> <br>
+                                    <span class="magang_position">UI & UX</span>
+                                </div>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
 <!-- Prestasi Section -->
 <section class="py-2" id="prestasi">
-    <div class="container justify-content-center">
-        <h2 class="title text-center">Prestasi Mahasiswa</h2>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-10">
+                <h2 class="title text-center">Prestasi Mahasiswa</h2>
+                <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" space-between="30" loop="true">
+                    <swiper-slide>Slide 1
+                        <div class="row align-item-center">
+                            <div class="col-6">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                            </div>
+                            <div class="col-6">
+                                <div class="">
+                                    <h3 class="">Prestasi</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </swiper-slide>
+                    <swiper-slide>Slide 2
+                    <div class="row align-item-center">
+                            <div class="col-6">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                            </div>
+                            <div class="col-6">
+                                <div class="">
+                                    <h3 class="">Prestasi</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </swiper-slide>
+                    <swiper-slide>Slide 3
+                    <div class="row align-item-center">
+                            <div class="col-6">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                            </div>
+                            <div class="col-6">
+                                <div class="">
+                                    <h3 class="">Prestasi</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </swiper-slide>
+                </swiper-container>
+            </div>
+        </div>
     </div>
 </section>
 
