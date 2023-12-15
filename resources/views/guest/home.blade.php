@@ -43,31 +43,31 @@
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button keunggulan_prodi_collapse-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Accordion Item #1
+                                VISI
                             </button>
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#Cees">
                             <div class="accordion-body">
-                                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                <strong>Program Studi Berbasis Karakter</strong> yang membentuk enterpreneur dan profesional di bidang ilmu komputer serta menjadi pusat keunggulan menuju peradaban emas
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed keunggulan_prodi_collapse-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Accordion Item #2
+                                MISI
                             </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#Cees">
                             <div class="accordion-body">
-                                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                <strong>Kami Program Studi berbasis karakter</strong> yang menyelanggarakan pembelajran, penelitian dan pengabdian masyarakat di bidang ilmu komputer melalui keseimbangan spiritual, kreativitas dan intelektualitas
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item border-0">
                         <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed keunggulan_prodi_collapse-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Accordion Item #3
+                                TUJUAN KAMI
                             </button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#Cees">
@@ -195,7 +195,7 @@
     </div>
 </section>
 
-<!-- MBKM Section -->
+<!-- Mgang Internship Section -->
 <section class="py-2 my-4" id="mbkm">
     <div class="container">
         <div class="row justify-content-center">
@@ -299,10 +299,10 @@
                 <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" space-between="30" loop="true">
                     <swiper-slide>
                         <div class="row align-items-center justify-content-center">
-                            <div class="col-6">
+                            <div class="col-lg-6 col-md-12 my-3">
                                 <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="70%" alt="">
                             </div>
-                            <div class="col-6">
+                            <div class="col-lg-6 col-md-12 my-3">
                                 <div class="card border-2 rounded-5">
                                     <div class="card-body">
                                         <h3 class="card-title">Prestasi</h3>
@@ -315,26 +315,38 @@
                             </div>
                         </div>
                     </swiper-slide>
-                    <swiper-slide>Slide 2
-                    <div class="row align-item-center">
-                            <div class="col-6">
-                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                    <swiper-slide>
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-6 col-md-12 my-3">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="70%" alt="">
                             </div>
-                            <div class="col-6">
-                                <div class="">
-                                    <h3 class="">Prestasi</h3>
+                            <div class="col-lg-6 col-md-12 my-3">
+                                <div class="card border-2 rounded-5">
+                                    <div class="card-body">
+                                        <h3 class="card-title">Prestasi</h3>
+                                        <h5 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h5>
+                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <a href="#" class="card-link">Card link</a>
+                                        <a href="#" class="card-link">Another link</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </swiper-slide>
-                    <swiper-slide>Slide 3
-                    <div class="row align-item-center">
-                            <div class="col-6">
-                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="100%" alt="">
+                    <swiper-slide>
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-lg-6 col-md-12 my-3">
+                                <img src="{{ asset('images/EBSCS11-removebg-preview (1) 2.png') }}" width="70%" alt="">
                             </div>
-                            <div class="col-6">
-                                <div class="">
-                                    <h3 class="">Prestasi</h3>
+                            <div class="col-lg-6 col-md-12 my-3">
+                                <div class="card border-2 rounded-5">
+                                    <div class="card-body">
+                                        <h3 class="card-title">Prestasi</h3>
+                                        <h5 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h5>
+                                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <a href="#" class="card-link">Card link</a>
+                                        <a href="#" class="card-link">Another link</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
