@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
         <div class="container">
             <!-- Logo -->
-            <a class="navbar-brand" href="#"><img src="{{ asset('images/CSWebsite_FullWarna.png') }}" alt="Logo" width='40%' height='auto'></a>
+            <a class="navbar-brand" href="#"><img src="{{ asset('images/Logo2.png') }}" alt="Logo" width='40%' height='auto'></a>
 
             <!-- Toggler for Small Screens -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,41 +95,13 @@
     <footer class="py-4 text-white mt-4 footer">
         <div class="container">
             <div class="row">
-                <div class="col-4">
-                    <a class="navbar-brand" href="#"><img src="{{ asset('images/CSWebsite_FullWarna.png') }}" alt="Logo" width='80%' height='90%'></a>
-                </div>
-                <div class="col-4 navbar navbar-dark ">
-                    <div class="row">
-                        <div class="col-4">
-                            <a link class="nav-link" href="#publikasi">Publikasi</a>
-                        </div>
-                        <div class="col-4">
-                            <a link class="nav-link" href="#publikasi">Internship</a>
-                        </div>
-                        <div class="col-4">
-                            <a link class="nav-link" href="#about">About Us</a>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-4">
-                            <a link class="nav-link" href="#prestasi">Prestasi</a>
-                        </div>
-                        <div class="col-4">
-                            <a link class="nav-link" href="#project">Project</a>
-                        </div>
-                        <div class="col-4">
-                            <a link class="nav-link" href="#contact">Contact Us</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-4 social-media">
-
+                <div class="container">
+                    <a class="navbar-brand" href="#"><img src="{{ asset('images/Logo1.png') }}" alt="Logo" width='30%' height='auto'></a>
                 </div>
             </div>
             <div class="row text-center my-4">
                 <div class="col">
-                    Mahasiswa Ilmu Komputer | Copyright @ {{date("Y")}} ESQ Business School
+                    Mahasiswa Ilmu Komputer | Copyright © {{date("Y")}} ESQ Business School
                 </div>
             </div>
         </div>
