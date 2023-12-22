@@ -30,6 +30,14 @@ Route::get('/admin', function () {
     return view('home');
 });
 
+Route::get('/intern', function () {
+    return view('guest/intern');
+});
+
+Route::get('/prestasi', function () {
+    return view('guest/prestasi');
+});
+
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Auth::routes();

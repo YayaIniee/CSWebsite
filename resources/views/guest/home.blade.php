@@ -48,7 +48,7 @@
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#Cees">
                             <div class="accordion-body">
-                                <strong>Program Studi Berbasis Karakter</strong> yang membentuk enterpreneur dan profesional di bidang ilmu komputer serta menjadi pusat keunggulan menuju peradaban emas
+                                <strong>Program Studi Berbasis Karakter</strong> yang membentuk enterpreneur dan profesional di bidang ilmu komputer serta menjadi pusat keunggulan menuju peradaban emas. <br><strong>Kami Program Studi berbasis karakter</strong> yang menyelanggarakan pembelajran, penelitian dan pengabdian masyarakat di bidang ilmu komputer melalui keseimbangan spiritual, kreativitas dan intelektualitas
                             </div>
                         </div>
                     </div>
