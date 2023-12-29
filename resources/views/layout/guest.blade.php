@@ -40,7 +40,7 @@
                         <a class="nav-link" href="intern">Internship</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#project">Project</a>
+                        <a class="nav-link" href="project">Project</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#publikasi">Publikasi</a>
