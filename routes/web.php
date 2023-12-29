@@ -38,6 +38,11 @@ Route::get('/prestasi', function () {
     return view('guest/prestasi');
 });
 
+Route::get('/project', function () {
+    return view('guest/project');
+});
+
+
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Auth::routes();
