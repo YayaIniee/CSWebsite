@@ -153,6 +153,16 @@
                                 @endforeach
                             </select>
                         </div> --}}
+
+                        <div class="form-group">
+                            <label>Waktu Mulai</label>
+                            <input class="form-control datepicker" name="tanggal_mulai"/>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Waktu Selesai</label>
+                            <input class="form-control datepicker" name="tanggal_selesai" />
+                        </div>
                         
                     </div>
                     <div class="modal-footer">
