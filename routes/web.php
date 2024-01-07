@@ -56,3 +56,41 @@ Route::resource('mbkm', MbkmController::class);
 // Route::post('/login', [AuthController::class, 'authenticate']);
 // Route::post('/logout', [AuthController::class, 'logout']);
 // Route::post('/register', [AuthController::class, 'store']);
+Route::get('/login', function () {
+    return view('auth/login');
+});
+
+Route::get('/admin', function () {
+    return view('home');
+});
+
+Route::get('/intern', function () {
+    return view('guest/intern');
+});
+
+Route::get('/prestasi', function () {
+    return view('guest/prestasi');
+});
+
+Route::get('/project', function () {
+    return view('guest/project');
+});
+
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/mahasiswa', 'App\Http\Controllers\MahasiswaController@experimental');
+
+Route::post('/mahasiswa/store', 'App\Http\Controllers\MahasiswaController@store');
+
+Route::get('/mahasiswa/tambah','App\Http\Controllers\MahasiswaController@tambah');
+
+Route::get('/mahasiswa/edit/{id}','App\Http\Controllers\MahasiswaController@edit');
+
+Route::post('/mahasiswa/update','App\Http\Controllers\MahasiswaController@update');
